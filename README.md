@@ -1,37 +1,35 @@
 # Tag_in_java
-Tag in Java(Android).Similar to Unity Tag System.
-
-With this library, you can add tags to objects in java.
+Tag in Java(Android).Similar to Unity Tag System. With this library, you can add tags to objects in java.
 
 # Methods:
 
-**addTag: returns String | Parameters: **
+**addTag: returns String | Parameters: Object,String**
 
-**removeTagByIndexAndObject: returns String | Parameters: **
+**removeTagByIndexAndObject: returns String | Parameters: Object,int**
 
-**removeTagByNameAndObject: returns void | Parameters: **
+**removeTagByNameAndObject: returns void | Parameters: Object,String**
 
-**removeAllTagsByName: returns void | Parameters: **
+**removeAllTagsByName: returns void | Parameters: String**
 
-**removeAllTagsByIndex: returns void | Parameters: **
+**removeAllTagsByIndex: returns void | Parameters: int**
 
-**removeObject: returns void | Parameters: **
+**removeObject: returns void | Parameters: Object**
 
-**removeAllObjectsIfNoTag: returns void | Parameters: **
+**removeAllObjectsIfNoTag: returns void | Parameters: --**
 
-**getTagsByObject: returns String array | Parameters: **
+**getTagsByObject: returns String array | Parameters: Object**
 
-**getAllTags: returns String array | Parameters: **
+**getAllTags: returns String array | Parameters: --**
 
-**getTagByIndexAndObject: returns String | Parameters: **
+**getTagByIndexAndObject: returns String | Parameters: Object,int**
 
-**getObjectListByTag: returns Object array | Parameters: **
+**getObjectListByTag: returns Object array | Parameters: String**
 
-**getTagCountByObject: returns int | Parameters: **
+**getTagCountByObject: returns int | Parameters: Object**
 
-**getObjectCountByTag: returns int | Parameters: **
+**getObjectCountByTag: returns int | Parameters: String**
 
-**TagListToString: returns String | Parameters: **
+**TagListToString: returns String | Parameters: --**
 
-**TagListToStringForObject: returns String | Parameters: **
+**TagListToStringForObject: returns String | Parameters: Object**
 
