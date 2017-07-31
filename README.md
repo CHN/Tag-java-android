@@ -5,33 +5,33 @@ With this library, you can add tags to objects in java.
 
 # Methods:
 
-**addTag: returns String**
+**addTag: returns String | Parameters: **
 
-**removeTagByIndexAndObject: returns String**
+**removeTagByIndexAndObject: returns String | Parameters: **
 
-**removeTagByNameAndObject: returns void**
+**removeTagByNameAndObject: returns void | Parameters: **
 
-**removeAllTagsByName: returns void**
+**removeAllTagsByName: returns void | Parameters: **
 
-**removeAllTagsByIndex: returns void**
+**removeAllTagsByIndex: returns void | Parameters: **
 
-**removeObject: returns void**
+**removeObject: returns void | Parameters: **
 
-**removeAllObjectsIfNoTag: returns void**
+**removeAllObjectsIfNoTag: returns void | Parameters: **
 
-**getTagsByObject: returns String array**
+**getTagsByObject: returns String array | Parameters: **
 
-**getAllTags: returns String array**
+**getAllTags: returns String array | Parameters: **
 
-**getTagByIndexAndObject: returns String**
+**getTagByIndexAndObject: returns String | Parameters: **
 
-**getObjectListByTag: returns Object array**
+**getObjectListByTag: returns Object array | Parameters: **
 
-**getTagCountByObject: returns int**
+**getTagCountByObject: returns int | Parameters: **
 
-**getObjectCountByTag: returns int**
+**getObjectCountByTag: returns int | Parameters: **
 
-**TagListToString: returns String**
+**TagListToString: returns String | Parameters: **
 
-**TagListToStringForObject: returns String**
+**TagListToStringForObject: returns String | Parameters: **
 
