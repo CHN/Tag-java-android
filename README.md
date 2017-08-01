@@ -1,5 +1,5 @@
-# Tag In Java
-Tag in Java(Android).Similar to Unity Tag System. With this library, you can add tags to objects in java. You need to edit package name where placed at top.
+# Tag In Android(Java)
+Tag in Android(Java).Similar to Unity Tag System. With this library, you can add tags to objects in java. You need to edit package name where placed at top.
 
 # Methods:
 
